@@ -33,3 +33,5 @@ temp/
 ### MacOS ###
 # General
 .DS_Store
+
+package-lock.json
