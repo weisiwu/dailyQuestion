@@ -1,0 +1,12 @@
+{
+  "name": "dailyquestion",
+  "version": "1.0.0",
+  "description": "每日一问一答",
+  "main": "index.js",
+  "scripts": {
+    "add": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
