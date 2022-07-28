@@ -4,7 +4,8 @@
   "description": "每日一问一答",
   "main": "index.js",
   "scripts": {
-    "add": "node ./init.js"
+    "add": "node ./init.js",
+    "publish": "./publish.sh"
   },
   "keywords": [],
   "author": "",
