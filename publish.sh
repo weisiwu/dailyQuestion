@@ -6,7 +6,7 @@ date=$(date "+%Y%m%d" )
 type git
 if [ $? -eq 0 ]; then
     git add .
-    git commit -m "chore: 添加${xx}问题"
+    git commit -m "chore: 添加${date}问题"
     if [ $? -eq 0 ]; then
         git push
     fi
